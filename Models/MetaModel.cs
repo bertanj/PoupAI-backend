@@ -1,3 +1,4 @@
+namespace PoupAI.Models;
 using PoupAI.Models;
 
 public class MetaModel { 
