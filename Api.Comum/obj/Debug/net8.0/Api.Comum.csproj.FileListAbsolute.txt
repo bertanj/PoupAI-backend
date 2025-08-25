@@ -1,0 +1,11 @@
+C:\Users\guilh\Desktop\PoupAI_Backend\Api.Comum\bin\Debug\net8.0\Api.Comum.deps.json
+C:\Users\guilh\Desktop\PoupAI_Backend\Api.Comum\bin\Debug\net8.0\Api.Comum.dll
+C:\Users\guilh\Desktop\PoupAI_Backend\Api.Comum\bin\Debug\net8.0\Api.Comum.pdb
+C:\Users\guilh\Desktop\PoupAI_Backend\Api.Comum\obj\Debug\net8.0\Api.Comum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\Desktop\PoupAI_Backend\Api.Comum\obj\Debug\net8.0\Api.Comum.AssemblyInfoInputs.cache
+C:\Users\guilh\Desktop\PoupAI_Backend\Api.Comum\obj\Debug\net8.0\Api.Comum.AssemblyInfo.cs
+C:\Users\guilh\Desktop\PoupAI_Backend\Api.Comum\obj\Debug\net8.0\Api.Comum.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Desktop\PoupAI_Backend\Api.Comum\obj\Debug\net8.0\Api.Comum.dll
+C:\Users\guilh\Desktop\PoupAI_Backend\Api.Comum\obj\Debug\net8.0\refint\Api.Comum.dll
+C:\Users\guilh\Desktop\PoupAI_Backend\Api.Comum\obj\Debug\net8.0\Api.Comum.pdb
+C:\Users\guilh\Desktop\PoupAI_Backend\Api.Comum\obj\Debug\net8.0\ref\Api.Comum.dll
