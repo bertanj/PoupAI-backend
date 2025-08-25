@@ -6,12 +6,12 @@ namespace PoupAI.Data{
     {
         public AppDbContext(DbContextOptions<AppDbContext> options) : base(options)
         {
+            public DbSet<UsuarioModel> Usuarios { get; set; }
+            public DbSet<ReceitaModel> Receitas { get; set; }
+            public DbSet<DespesaModel> Despesas { get; set; }
+            public DbSet<CategoriaModel> Categorias { get; set; }
+            public DbSet<MetaModel> Metas { get; set; }
         }
-        public DbSet<UsuarioModel> Usuarios { get; set; }
-        public DbSet<ReceitaModel> Receitas { get; set; }
-        public DbSet<DespesaModel> Despesas { get; set; }
-        public DbSet<CategoriaModel> Categorias { get; set; }
-        public DbSet<MetaModel> Metas { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
