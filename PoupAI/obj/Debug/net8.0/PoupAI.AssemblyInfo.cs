@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PoupAI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+151b32773c4912168e6845338512438ab760e104")]
 [assembly: System.Reflection.AssemblyProductAttribute("PoupAI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PoupAI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

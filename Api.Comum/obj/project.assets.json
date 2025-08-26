@@ -8,23 +8,23 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\guilh\\.nuget\\packages\\": {},
+    "C:\\Users\\Mateus Bertani\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\guilh\\Desktop\\PoupAI_Backend\\Api.Comum\\Api.Comum.csproj",
+      "projectUniqueName": "C:\\Projects\\poupai\\PoupAI_Backend\\Api.Comum\\Api.Comum.csproj",
       "projectName": "Api.Comum",
-      "projectPath": "C:\\Users\\guilh\\Desktop\\PoupAI_Backend\\Api.Comum\\Api.Comum.csproj",
-      "packagesPath": "C:\\Users\\guilh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\guilh\\Desktop\\PoupAI_Backend\\Api.Comum\\obj\\",
+      "projectPath": "C:\\Projects\\poupai\\PoupAI_Backend\\Api.Comum\\Api.Comum.csproj",
+      "packagesPath": "C:\\Users\\Mateus Bertani\\.nuget\\packages\\",
+      "outputPath": "C:\\Projects\\poupai\\PoupAI_Backend\\Api.Comum\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\guilh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Mateus Bertani\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -33,7 +33,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -73,7 +72,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

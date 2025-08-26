@@ -9,3 +9,15 @@ C:\Users\guilh\Desktop\PoupAI_Backend\Api.Comum\obj\Debug\net8.0\Api.Comum.dll
 C:\Users\guilh\Desktop\PoupAI_Backend\Api.Comum\obj\Debug\net8.0\refint\Api.Comum.dll
 C:\Users\guilh\Desktop\PoupAI_Backend\Api.Comum\obj\Debug\net8.0\Api.Comum.pdb
 C:\Users\guilh\Desktop\PoupAI_Backend\Api.Comum\obj\Debug\net8.0\ref\Api.Comum.dll
+C:\Projects\poupai\PoupAI_Backend\Api.Comum\bin\Debug\net8.0\Api.Comum.deps.json
+C:\Projects\poupai\PoupAI_Backend\Api.Comum\bin\Debug\net8.0\Api.Comum.dll
+C:\Projects\poupai\PoupAI_Backend\Api.Comum\bin\Debug\net8.0\Api.Comum.pdb
+C:\Projects\poupai\PoupAI_Backend\Api.Comum\obj\Debug\net8.0\Api.Comum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\poupai\PoupAI_Backend\Api.Comum\obj\Debug\net8.0\Api.Comum.AssemblyInfoInputs.cache
+C:\Projects\poupai\PoupAI_Backend\Api.Comum\obj\Debug\net8.0\Api.Comum.AssemblyInfo.cs
+C:\Projects\poupai\PoupAI_Backend\Api.Comum\obj\Debug\net8.0\Api.Comum.csproj.CoreCompileInputs.cache
+C:\Projects\poupai\PoupAI_Backend\Api.Comum\obj\Debug\net8.0\Api.Comum.sourcelink.json
+C:\Projects\poupai\PoupAI_Backend\Api.Comum\obj\Debug\net8.0\Api.Comum.dll
+C:\Projects\poupai\PoupAI_Backend\Api.Comum\obj\Debug\net8.0\refint\Api.Comum.dll
+C:\Projects\poupai\PoupAI_Backend\Api.Comum\obj\Debug\net8.0\Api.Comum.pdb
+C:\Projects\poupai\PoupAI_Backend\Api.Comum\obj\Debug\net8.0\ref\Api.Comum.dll

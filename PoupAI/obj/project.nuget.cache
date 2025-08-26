@@ -1,21 +1,21 @@
 {
   "version": 2,
-  "dgSpecHash": "9U8mNbgOYW8=",
+  "dgSpecHash": "Lqt6rINTSc8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\guilh\\Desktop\\PoupAI_Backend\\PoupAI\\PoupAI.csproj",
+  "projectFilePath": "C:\\Projects\\poupai\\PoupAI_Backend\\PoupAI\\PoupAI.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\guilh\\.nuget\\packages\\dapper\\2.1.66\\dapper.2.1.66.nupkg.sha512",
-    "C:\\Users\\guilh\\.nuget\\packages\\dapper.contrib\\2.0.78\\dapper.contrib.2.0.78.nupkg.sha512",
-    "C:\\Users\\guilh\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.18\\microsoft.aspnetcore.openapi.8.0.18.nupkg.sha512",
-    "C:\\Users\\guilh\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
-    "C:\\Users\\guilh\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
-    "C:\\Users\\guilh\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
-    "C:\\Users\\guilh\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
-    "C:\\Users\\guilh\\.nuget\\packages\\npgsql\\9.0.3\\npgsql.9.0.3.nupkg.sha512",
-    "C:\\Users\\guilh\\.nuget\\packages\\swashbuckle.aspnetcore\\6.6.2\\swashbuckle.aspnetcore.6.6.2.nupkg.sha512",
-    "C:\\Users\\guilh\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.6.2\\swashbuckle.aspnetcore.swagger.6.6.2.nupkg.sha512",
-    "C:\\Users\\guilh\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.6.2\\swashbuckle.aspnetcore.swaggergen.6.6.2.nupkg.sha512",
-    "C:\\Users\\guilh\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.6.2\\swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512"
+    "C:\\Users\\Mateus Bertani\\.nuget\\packages\\dapper\\2.1.66\\dapper.2.1.66.nupkg.sha512",
+    "C:\\Users\\Mateus Bertani\\.nuget\\packages\\dapper.contrib\\2.0.78\\dapper.contrib.2.0.78.nupkg.sha512",
+    "C:\\Users\\Mateus Bertani\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.18\\microsoft.aspnetcore.openapi.8.0.18.nupkg.sha512",
+    "C:\\Users\\Mateus Bertani\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Mateus Bertani\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\Mateus Bertani\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\Mateus Bertani\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
+    "C:\\Users\\Mateus Bertani\\.nuget\\packages\\npgsql\\9.0.3\\npgsql.9.0.3.nupkg.sha512",
+    "C:\\Users\\Mateus Bertani\\.nuget\\packages\\swashbuckle.aspnetcore\\6.6.2\\swashbuckle.aspnetcore.6.6.2.nupkg.sha512",
+    "C:\\Users\\Mateus Bertani\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.6.2\\swashbuckle.aspnetcore.swagger.6.6.2.nupkg.sha512",
+    "C:\\Users\\Mateus Bertani\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.6.2\\swashbuckle.aspnetcore.swaggergen.6.6.2.nupkg.sha512",
+    "C:\\Users\\Mateus Bertani\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.6.2\\swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512"
   ],
   "logs": []
 }

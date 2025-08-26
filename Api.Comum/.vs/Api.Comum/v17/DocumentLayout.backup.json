@@ -1,12 +1,68 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\guilh\\Desktop\\PoupAI_Backend\\Api.Comum\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Projects\\poupai\\PoupAI_Backend\\Api.Comum\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA25B6EE-FA89-4A8C-B1DF-460149784540}|..\\PoupAI\\PoupAI.csproj|c:\\projects\\poupai\\poupai_backend\\poupai\\repositories\\receitarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA25B6EE-FA89-4A8C-B1DF-460149784540}|..\\PoupAI\\PoupAI.csproj|c:\\projects\\poupai\\poupai_backend\\poupai\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA25B6EE-FA89-4A8C-B1DF-460149784540}|..\\PoupAI\\PoupAI.csproj|c:\\projects\\poupai\\poupai_backend\\poupai\\repositories\\dashboardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\poupai\\PoupAI_Backend\\PoupAI\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\PoupAI\\appsettings.json",
+              "ToolTip": "C:\\Projects\\poupai\\PoupAI_Backend\\PoupAI\\appsettings.json",
+              "RelativeToolTip": "..\\PoupAI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-26T16:41:31.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DashboardRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\poupai\\PoupAI_Backend\\PoupAI\\Repositories\\DashboardRepository.cs",
+              "RelativeDocumentMoniker": "..\\PoupAI\\Repositories\\DashboardRepository.cs",
+              "ToolTip": "C:\\Projects\\poupai\\PoupAI_Backend\\PoupAI\\Repositories\\DashboardRepository.cs",
+              "RelativeToolTip": "..\\PoupAI\\Repositories\\DashboardRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T16:39:21.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReceitaRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\poupai\\PoupAI_Backend\\PoupAI\\Repositories\\ReceitaRepository.cs",
+              "RelativeDocumentMoniker": "..\\PoupAI\\Repositories\\ReceitaRepository.cs",
+              "ToolTip": "C:\\Projects\\poupai\\PoupAI_Backend\\PoupAI\\Repositories\\ReceitaRepository.cs",
+              "RelativeToolTip": "..\\PoupAI\\Repositories\\ReceitaRepository.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAuwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T16:39:05.298Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
